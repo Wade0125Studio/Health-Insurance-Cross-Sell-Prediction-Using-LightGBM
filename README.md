@@ -1,6 +1,6 @@
 # Health-Insurance-Cross-Sell-Prediction-Using-LightGBM
 <div align="center">
-<img src="https://github.com/Wade0125Studio/Health-Insurance-Cross-Sell-Prediction-Using-LightGBM/blob/main/shutterstock.jpg">
+<img src="https://github.com/Wade0125Studio/Health-Insurance-Cross-Sell-Prediction-Using-LightGBM/blob/main/img/shutterstock.jpg">
 </div>
 
 
@@ -19,10 +19,10 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 Data Description</br>
 Train data:
 <div align="center">
-<img src="https://github.com/Wade0125Studio/Health-Insurance-Cross-Sell-Prediction-Using-LightGBM/blob/main/data1.png">
+<img src="https://github.com/Wade0125Studio/Health-Insurance-Cross-Sell-Prediction-Using-LightGBM/blob/main/img/data1.png">
 </div>
 
 Test data:
 <div align="center">
-<img src="https://github.com/Wade0125Studio/Health-Insurance-Cross-Sell-Prediction-Using-LightGBM/blob/main/data2.png">
+<img src="https://github.com/Wade0125Studio/Health-Insurance-Cross-Sell-Prediction-Using-LightGBM/blob/main/img/data2.png">
 </div>
