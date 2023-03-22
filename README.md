@@ -1,4 +1,8 @@
 # Health-Insurance-Cross-Sell-Prediction-Using-LightGBM
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Health-Insurance-Cross-Sell-Prediction-Using-LightGBM/blob/main/shutterstock.jpg">
+</div>
+
 
 About Dataset:
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
